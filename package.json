@@ -1,0 +1,14 @@
+{
+  "name": "vocab-registry-docs",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.0",
+    "js-yaml": "^4.1.0"
+  }
+}

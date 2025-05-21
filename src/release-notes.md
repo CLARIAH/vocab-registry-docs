@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: base
 title: Release notes
 permalink: /release-notes/
 ---

@@ -2,7 +2,7 @@
   url: /about/
 - title: Guidelines
   url: /guidelines/
-- title: Frequently Asked Questions
+- title: FAQ
   url: /faq/
 - title: HowTos
   url: /howtos/
@@ -10,3 +10,5 @@
   url: /release-notes/
 - title: Publications
   url: /publications/
+- title: Register new vocabulary
+  url: /new/

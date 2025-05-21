@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: base
 title: guidelines-titleinyaml
 permalink: /guidelines/
 ---
@@ -62,7 +62,7 @@ See also: Vocabularies
 See also: vocabularies; semantic artefact
 “Knowledge organization system” (KOS) “has been adopted as a general term to encompass all schemes used to organise information and promote knowledge management, such as classification schemes, gazetteers, lexical databases, taxonomies, thesauri, and ontologies. These KOSs aim to underline the semantic structure of a domain” ()
 
-![Diagram](/assets/images/Screenshot 2025-05-10 at 16.05.21.png)
+![Diagram](/Screenshot%202025-05-10%20at%2016.05.21.png)
 (Blumauer, 2015)
 
 ### List
@@ -134,7 +134,7 @@ Standard for taxonomy or thesaurus modeling and interoperability
 
 ▪ SKOS (Simple Knowledge Organization System), RDF
 
-![Diagram](/assets/images/Screenshot 2025-05-10 at 15.55.17.png)
+![Diagram](/Screenshot%202025-05-10%20at%2015.55.17.png)
 (SKOS main components, from Fernandes, 2015)
 
 Standards for ontology modeling and interoperability

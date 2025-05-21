@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="shortcut icon" href="/favicon.ico">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="{{ '/main.css' | url }}"/>
+</head>
+<body>
+<div id="root">
+  <div class="hcContentContainer pageHeader">
+    <header class="hcPageHeaderSimple hcBasicSideMargin">
+      <a class="hcBrand" href="/">
+        <div class="hcTitle">SSH FAIR Vocabulary Registry</div>
+      </a>
+
+      <nav>
+        {% for item in navigation %}
+          <a href="{{ item.url }}" class="{% if page.url == item.url %}active{% endif %}">
+            {{ item.title }}
+          </a>
+        {% endfor %}
+      </nav>
+    </header>
+  </div>
+
+  <div class="hcContentContainer pageHeaderAfter"></div>
+
+  <div class="hcContentContainer">
+    {{ content | safe }}
+  </div>
+</div>
+</body>
+</html>
