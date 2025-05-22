@@ -138,3 +138,17 @@ a.active {
     margin-bottom: 5rem;
     border-bottom: 1px solid #ededed;
 }
+
+.callout-note {
+    border-left: 4px solid #007acc;
+    background: #f0f8ff;
+    padding: 1em;
+    margin: 1em 0;
+}
+
+.callout-warning {
+    border-left: 4px solid #cc3300;
+    background: #fff4e5;
+    padding: 1em;
+    margin: 1em 0;
+}
