@@ -25,7 +25,7 @@ Standard for taxonomy or thesaurus modeling and interoperability
 
 ▪ SKOS (Simple Knowledge Organization System), RDF
 
-![Diagram](/Screenshot%202025-05-10%20at%2015.55.17.png)
+![Diagram](/static/Screenshot%202025-05-10%20at%2015.55.17.png)
 (SKOS main components, from Fernandes, 2015)
 
 Standards for ontology modeling and interoperability

@@ -53,7 +53,7 @@ See also: Vocabularies
 See also: vocabularies; semantic artefact
 “Knowledge organization system” (KOS) “has been adopted as a general term to encompass all schemes used to organise information and promote knowledge management, such as classification schemes, gazetteers, lexical databases, taxonomies, thesauri, and ontologies. These KOSs aim to underline the semantic structure of a domain” ()
 
-![Diagram](/Screenshot%202025-05-10%20at%2016.05.21.png)
+![Diagram](/static/Screenshot%202025-05-10%20at%2016.05.21.png)
 (Blumauer, 2015)
 
 ### List
