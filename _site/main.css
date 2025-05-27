@@ -68,6 +68,14 @@ nav {
     font-size: 17px;
 }
 
+.localNav {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
 a.active {
     font-weight: bold;
 }

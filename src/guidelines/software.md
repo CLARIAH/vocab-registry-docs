@@ -3,9 +3,11 @@ title: Software
 layout: base.njk
 permalink: /guidelines/software/
 ---
-<nav class="local-nav">
+<nav class="localNav">
   {% for item in guidelinesNav %}
-    <a href="{{ item.url }}">{{ item.title }}</a>
+    <a href="{{ item.url }}" class="{% if page.url == item.url %}active{% endif %}">
+      {{ item.title }}
+    </a>
   {% endfor %}
 </nav>
 
