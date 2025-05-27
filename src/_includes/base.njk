@@ -20,7 +20,7 @@
 
       <nav>
         {% for item in navigation %}
-          <a href="{{ item.url }}" class="{% if page.url == item.url %}active{% endif %}">
+          <a href="{{ item.url }}" class="{% if item.url in page.url %}active{% endif %}">
             {{ item.title }}
           </a>
         {% endfor %}

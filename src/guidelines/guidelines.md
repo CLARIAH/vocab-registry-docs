@@ -4,11 +4,7 @@ title: Guidelines
 permalink: /guidelines/
 ---
 <nav class="localNav">
-  {% for item in guidelinesNav %}
-    <a href="{{ item.url }}" class="{% if page.url == item.url %}active{% endif %}">
-      {{ item.title }}
-    </a>
-  {% endfor %}
+  {% for item in guidelinesNav %}<a href="{{ item.url }}" class="{% if page.url == item.url %}active{% endif %}">{{ item.title }}</a>{% endfor %}
 </nav>
 
 # SSH FAIR Vocabularies Guidelines
