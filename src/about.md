@@ -11,21 +11,19 @@ Welcome to the FAIR Vocabulary Registry for the Humanities and Social Sciences (
 The vocabulary registry aligns to other international initiatives that aim to increase the FAIR-ness ("Findability", "Accessibility", "Reproducibility" and "Interoperability") of research data and cultural heritage metadata, in this case with a focus on vocabularies (see Guidelines-Concepts for a definition of these terms).
 
 # FAQ
-Link
+https://registry.vocabs.clariah.nl/faq/
 
 # GUIDELINES
-Link
+https://registry.vocabs.clariah.nl/guidelines/
 
 # DEVELOPMENT
-The project started in ?? within the CLARIAH infrastructure project, and continued from 2025 in SHHOC.nl... (t.b.d.). See the development roadmap: https://github.com/orgs/knaw-huc/projects/3/views/1?sliceBy%5Bvalue%5D=FAIR+vocabularies
-- (t.b.d.) --> decide if we will merge the issues from the Clariah project with the Huc board? (https://github.com/orgs/CLARIAH/projects/3)
+
 
 # CREDITS
 - Ideation and project management: Menzo Windhouwer (lead software ingineer at the KNAW Humanities Cluster)
 - Ideation and development: Kerim Meijer (senior software engineer at the KNAW Humanities Cluster)
 - Associate developer: Meindert Kroese (KNAW Humanities Cluster)
 - Associate developer trainee, curator and user researcher: Liliana Melgar (KNAW Humanities Cluster)
-- ??
 - This project is part of the CLARIAH infrastructure, it's funded by CLARIAH Plus and SHHOC.nl and gets collaboration from DANS (t.b.d.) and ODISSEI
 
 # REFERENCES
