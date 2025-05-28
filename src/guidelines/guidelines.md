@@ -9,12 +9,14 @@ permalink: /guidelines/
 
 # SSH FAIR Vocabularies Guidelines
 
-> **Note:** This is a note callout.
+> **Note:** The construction of these guidelines is still work in progress.
+{: .callout-note }
 
-These guidelines aim to support the users of the SSH FAIR Vocabulary Registry, not only in using the registry, but also in finding their way in the world of creating, (re)using, publishing and working with vocabularies in a FAIR way. The construction of these guidelines is work in progress.
+<strong>
+These guidelines aim to support the users of the SSH FAIR Vocabulary Registry, not only in using the registry, but also in finding their way in the world of creating, (re)using, publishing and working with vocabularies in a FAIR way. 
 
-- Creators: the initial content was created by Liliana Melgar, in collaboration with [Angelica Maineri](https://orcid.org/0000-0002-6978-5278)(ODISSEI) and [Ricarda Braukmann](Ricarda Braukmann <ricarda.braukmann@dans.knaw.nl>) (DANS)
-- Contributing: we aim to continue building these guidelines collaboratively. If you would like to contribute with questions or writing content, please contact us via . 
+- Creators: the initial content was created by Liliana Melgar, in collaboration with [Angelica Maineri](https://orcid.org/0000-0002-6978-5278)(ODISSEI) and [Ricarda Braukmann](https://orcid.org/0000-0001-6383-7148) (DANS)
+- Contributing: we aim to continue building these guidelines collaboratively. If you would like to contribute with questions or writing content, please let us know: <a href="&#109;a&#105;l&#116;&#111;:&#115;&#116;&#114;&#117;&#99;&#116;&#117;&#114;&#101;&#100;&#45;&#100;&#97;&#116;&#97;&#64;&#100;&#105;&#46;&#104;&#117;&#99;&#46;&#107;&#110;&#97;&#119;&#46;&#110;&#108;">DI Structured Data Team</a> . 
 
 The use cases for these guidelines are:
 
@@ -25,4 +27,5 @@ The use cases for these guidelines are:
 - **Sharing**. As a curator, researcher, or data manager, I want to add a new vocabulary to a vocabulary registry
 - **Finding**. As a curator, researcher, or data manager, I want to find or discover which vocabularies exist in a specific domain
 - **Aligning**. As a researcher, curator, or data manager, I want to align a vocabulary with other vocabularies
-- **Depositing**. As a researcher or data manager, I want to have clear guidelines about how to include information about the vocabularies I have used in the metadata or documentation as partof the research data deposited in a repository.
+- **Depositing**. As a researcher or data manager, I want to have clear guidelines about how to include information about the vocabularies I have used in the metadata or documentation as part of the research data deposited in a repository.
+
