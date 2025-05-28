@@ -8,6 +8,7 @@ permalink: /guidelines/
 </nav>
 
 # SSH FAIR Vocabularies Guidelines
+test May28
 
 These guidelines aim to support the users of the SSH FAIR Vocabulary Registry, not only in using the registry, but also in finding their way in the world of creating, (re)using, publishing and working with vocabularies in a FAIR way. The construction of these guidelines is work in progress.
 The initial content was created by Liliana Melgar, in collaboration with Angelica and Ricarda (DANS), but we aim that they continue to be built collaboratively. If you would like to contribute to these guidelines, please contact us via the Github contact page. 
