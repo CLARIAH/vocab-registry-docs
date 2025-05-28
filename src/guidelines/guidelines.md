@@ -9,6 +9,10 @@ permalink: /guidelines/
 
 # SSH FAIR Vocabularies Guidelines
 
+> **Note:** This is a note callout.
+{: .callout-note }
+
+
 These guidelines aim to support the users of the SSH FAIR Vocabulary Registry, not only in using the registry, but also in finding their way in the world of creating, (re)using, publishing and working with vocabularies in a FAIR way. The construction of these guidelines is work in progress.
 
 - Creators: the initial content was created by Liliana Melgar, in collaboration with [Angelica Maineri](https://orcid.org/0000-0002-6978-5278)(ODISSEI) and [Ricarda Braukmann](Ricarda Braukmann <ricarda.braukmann@dans.knaw.nl>) (DANS)
