@@ -68,6 +68,17 @@ nav {
     font-size: 17px;
 }
 
+blockquote {
+    border-left: 4px solid #082045;
+    background: #f0f8ff;
+    padding: 1em;
+    margin: 1em 0;
+
+    p {
+        margin: 0 !important;
+    }
+}
+
 .localNav {
     display: flex;
     flex-direction: row;
