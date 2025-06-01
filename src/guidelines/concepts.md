@@ -13,7 +13,6 @@ permalink: /guidelines/concepts/
 > **Note:** The citations in this page have their correspondent reference in the [Zotero library online](https://www.zotero.org/groups/5970044/fair_vocabularies_learn/library) which contains our recommended readings.
 {: .callout-note }
 
-<strong>
 Definitions in the domain of vocabularies are not unique or clearly established. It is important, to facilitate communication, make explicit what meaning are you attaching to a certain term. We offer here a summary of basic terminology with pointers to useful definitions and sources.
 ### Application profile
 "An Application Profile is a data specification to facilitate the data exchange in a well-defined application context. It re-uses concepts from one or more semantic data specifications, while adding more specificity, by identifying mandatory, recommended, and optional elements, addressing particular application needs, and providing recommendations for controlled vocabularies to be used" (Interoperable Europe Portal, 2023)
@@ -107,13 +106,7 @@ See also: Scheme
 - "For present-day information management, the term taxonomy is used both in the narrow sense to mean a hierarchical structure of terms or concepts, and in the broad sense in reference to any set of controlled vocabularies used to tag or classify content to support information retrieval [...] However, as previously explained, this book uses a broader definition of taxonomy that encompasses all kinds of controlled vocabularies. So, we will refer to taxonomies that are structured as hierarchies as hierarchical taxonomies." (Hedden, 2022).
 
 ### Thesaurus
-In other cases, you may want to capture more nuances and represent knowledge in a more accurate way, that can be, for example, if you are a researcher studying gender. In that case, your list will need to include more options, or even show dependencies between them.
-
-are everywhere, is often used to refer to “controlled vocabularies”. A controlled vocabulary can be a list of terms
-
-“An ontology is defined as a model of a domain of knowledge, which comprises classes (sets of things), attributes (types of characteristics of things) and relationships between classes. According to this definition, an ontology is a somewhat generic model of a domain, and it does not include all of the individual members or instances of each class (such as the names of individual companies in the class called Company) nor the specific attributes of each attribute type (such as the address of each specific company for the attribute type called Address).
-
-However, the W3C recommendation for ontologies, OWL (Web Ontology Language) includes the designation “individuals,” and ontology software tools, such as Protégé, support the inclusion of individuals and their specific attributes. Thus, it is easy to think that an ontology, by definition, includes all specific individuals. But just because OWL covers the recommendation for how to include instances of a class, and software supports the inclusion of instances of classes does not necessarily mean that the instances or individuals are actually a _component_ of an ontology. The ontology experts on this CDL conference panel confirmed that an ontology is the upper-level semantic model.
+- "A controlled and structured vocabulary in which concepts are represented by terms, organized so that relationships between concepts are made explicit, and preferred terms are accompanied by lead-in entries for synonyms or quasi-synonyms." (ISO 25964-1:2011)
 
 ### Vocabularies
 See also: Controlled vocabularies; Knowledge organization system
