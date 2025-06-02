@@ -6,25 +6,32 @@ permalink: /about/
 
 # About the SSH FAIR Vocabulary Registry
 
-Welcome to the FAIR Vocabulary Registry for the Humanities and Social Sciences (SSH FAIR VOCABULARIES), built in the context of the "Social Sciences and Humanities Open Cloud" project (SSHOC.nl), which develops state of the art infrastructure for social science and humanities research in collaboration between ODISSEI (Open Data Infrastructure for Social Science and Economic Innovations) and CLARIAH (Common Lab Research Infrastructure for the Arts and Humanities). This registry is a one-stop reference service for vocabularies that are relevant to researchers, developers, data managers or curators in the humanities and social sciences (SSH) communities.
+Welcome to the FAIR Vocabulary Registry for the Humanities and Social Science (SSH), built in the context of the "Social Sciences and Humanities Open Cloud" project ([SSHOC.nl](https://sshoc.nl/)). This project develops state of the art infrastructure for social science and humanities research in collaboration between [ODISSEI](https://odissei-data.nl/) (Open Data Infrastructure for Social Science and Economic Innovations) and [CLARIAH](https://www.clariah.nl/) (Common Lab Research Infrastructure for the Arts and Humanities). 
 
-The vocabulary registry aligns to other international initiatives that aim to increase the FAIR-ness ("Findability", "Accessibility", "Reproducibility" and "Interoperability") of research data and cultural heritage metadata, in this case with a focus on vocabularies (see Guidelines-Concepts for a definition of these terms).
+The SSH FAIR Vocabulary Registry is a one-stop reference service for vocabularies that are relevant to researchers, developers, data managers or curators in the humanities and social sciences communities. It aims to support them in finding, (re)using, publishing and adding vocabularies to the registry.
 
-# FAQ
-https://registry.vocabs.clariah.nl/faq/
+The vocabulary registry aligns to other international initiatives that aim to increase the FAIR-ness ("Findability", "Accessibility", "Reproducibility" and "Interoperability") of research data and cultural heritage metadata, in this case with a focus on vocabularies (see "[Concepts](https://registry.vocabs.clariah.nl/guidelines/concepts/)" for some definitions of these terms).
+## Development
 
-# GUIDELINES
-https://registry.vocabs.clariah.nl/guidelines/
-
-# DEVELOPMENT
-
-
-# CREDITS
+- The SSH FAIR Vocabulary Registry's code and documentation is developed via Github in these repositories:
+	- Vocabulary workers: [https://github.com/CLARIAH/vocab-workers](https://github.com/CLARIAH/vocab-workers)
+	- Front-end: [https://github.com/CLARIAH/vocab-registry](https://github.com/CLARIAH/vocab-registry)
+	- Editor: [https://github.com/CLARIAH/vocab-registry-editor](https://github.com/CLARIAH/vocab-registry-editor)
+	- [https://github.com/CLARIAH/vocab-registry-docs](https://github.com/CLARIAH/vocab-registry-docs)
+	- Documentation: [https://github.com/CLARIAH/vocab-registry-docs](https://github.com/CLARIAH/vocab-registry-docs)
+	- Vocabulary recommender ([development version](https://recommender.vocabs.dev.clariah.nl/)), temporarily in development in private Gitlab. 
+- [Draft development roadmap](https://github.com/orgs/CLARIAH/projects/12/views/1).
+## FAQ
+[https://registry.vocabs.clariah.nl/faq/](https://registry.vocabs.clariah.nl/faq/)
+## Guidelines
+[https://registry.vocabs.clariah.nl/guidelines/](https://registry.vocabs.clariah.nl/guidelines/)
+## Credits
 - Ideation and project management: Menzo Windhouwer (lead software ingineer at the KNAW Humanities Cluster)
 - Ideation and development: Kerim Meijer (senior software engineer at the KNAW Humanities Cluster)
 - Associate developer: Meindert Kroese (KNAW Humanities Cluster)
-- Associate developer trainee, curator and user researcher: Liliana Melgar (KNAW Humanities Cluster)
+- Associate developer trainee, curator, and user researcher: Liliana Melgar (KNAW Humanities Cluster)
 - This project is part of the CLARIAH infrastructure, it's funded by CLARIAH Plus and SHHOC.nl and gets collaboration from DANS (t.b.d.) and ODISSEI
-
-# REFERENCES
-- Meijer, K. and Windhouer, M. (2024). The CLARIAH FAIR Vocabulary Registry. CLARIN Annual Conference 2024 (forthcoming).
+## Publications
+[https://registry.vocabs.clariah.nl/publications/](https://registry.vocabs.clariah.nl/publications/)
+## Contact
+<a href="&#109;a&#105;l&#116;&#111;:&#115;&#116;&#114;&#117;&#99;&#116;&#117;&#114;&#101;&#100;&#45;&#100;&#97;&#116;&#97;&#64;&#100;&#105;&#46;&#104;&#117;&#99;&#46;&#107;&#110;&#97;&#119;&#46;&#110;&#108;">DI Structured Data Team</a>. 
