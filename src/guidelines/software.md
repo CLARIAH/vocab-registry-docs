@@ -40,7 +40,10 @@ We collect here links to reference pages for vocabulary-related software, and a 
 		- Installation: on a web server or on a single desktop
 	- [iQvoc](https://iqvoc.net/) 
 		- open source tool for managing vocabularies that can import and export SKOS.
--
+	- [Skosmos](https://skosmos.org/):
+		- Open source web-based SKOS browser and publishing tool
+		- For publication only (not for creating or editting)
+
 - Not free and/or open source
 	- [Poolparty thesaurus manager](https://www.poolparty.biz/poolparty-thesaurus-manager)
 		- First public release: 2009
