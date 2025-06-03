@@ -63,4 +63,4 @@ We collect here links to reference pages for vocabulary-related software, and a 
 	- MultiTes ([https://multites.net](https://multites.net))
 
 ## Software list compilations
-- The Bartoc vocabulary registry has curated a list of recommended software: https://gbv.github.io/bartoc-vocabulary-software/
+- The Bartoc vocabulary registry has curated a list of recommended software: [https://gbv.github.io/bartoc-vocabulary-software/](https://gbv.github.io/bartoc-vocabulary-software/)
