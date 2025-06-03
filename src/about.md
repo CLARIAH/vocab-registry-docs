@@ -28,9 +28,10 @@ The vocabulary registry aligns to other international initiatives that aim to in
 ## Credits
 - Ideation and project management: Menzo Windhouwer (lead software ingineer at the KNAW Humanities Cluster)
 - Ideation and development: Kerim Meijer (senior software engineer at the KNAW Humanities Cluster)
-- Associate developer: Meindert Kroese (KNAW Humanities Cluster)
+- Associate developer: Meindert Kroese (KNAW Humanities Cluster); Vyacheslav Tykhonov (DANS)
 - Associate developer trainee, curator, and user researcher: Liliana Melgar (KNAW Humanities Cluster)
 - This project is part of the CLARIAH infrastructure, it's funded by CLARIAH Plus and SHHOC.nl.
+- Collaborators: Angelica Maineri (ODISSEI)
 ## Publications
 [https://registry.vocabs.clariah.nl/publications/](https://registry.vocabs.clariah.nl/publications/)
 ## Contact
