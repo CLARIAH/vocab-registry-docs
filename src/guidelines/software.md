@@ -45,9 +45,12 @@ We collect here links to reference pages for vocabulary-related software, and a 
 	- open source tool for managing vocabularies that can import and export SKOS.
 - [Skosmos](https://skosmos.org/):
 	- Open source web-based SKOS browser and publishing tool
-	- For publication only (not for creating or editting)
+	- For publication only (not for creating or editing)
+- [Onto.me](https://ontome.net/)
+	- Especially for ontologies
+	- It is open source but it is not clear if you can run it yourself.
 
-## Neither free nor clearly open source.
+## Commercial tools
 
 - [Poolparty thesaurus manager](https://www.poolparty.biz/poolparty-thesaurus-manager)
 	- First public release: 2009
@@ -55,9 +58,7 @@ We collect here links to reference pages for vocabulary-related software, and a 
 	- Standards support: [ISO-25964-1](https://help.poolparty.biz/8.1/en/poolparty-reference-and-glossary/iso-25964-1-guidelines-for-thesaurus-management-software-and-how-poolparty-maps-to-them.html)
 	- Web standards: SKOS, RDF, OWL, SPARQL
 	- Import/export formats: Excel, N3, N-Quads, Trix, Binary-RDF, MultiTes, RDF/XML, Turtle, N-Triples, RDF/JSON, Trig, JSON-LD, and Zthes
-	- Use: The PoolParty Semantic Suite is a commercial product; it offers free trial options. Cultural heritage institutions in The Netherlands can consult the [Rijksdienst voor het Cultureel Erfgoed](https://www.cultureelerfgoed.nl/actueel/nieuws/2023/09/26/verbinden-van-collecties-met-het-termennetwerk) or [NDE](https://netwerkdigitaalerfgoed.nl/) for institutional options.
-- [Onto.me](https://ontome.net/)
-	- Especially for ontologies
+	- Note: The PoolParty Semantic Suite is a commercial product; it offers free trial options. Cultural heritage institutions in The Netherlands can consult the [Rijksdienst voor het Cultureel Erfgoed](https://www.cultureelerfgoed.nl/actueel/nieuws/2023/09/26/verbinden-van-collecties-met-het-termennetwerk) or [NDE](https://netwerkdigitaalerfgoed.nl/) for using the RCE instance.
 - Other important commercial options are: 
 	- MondecaITM ([https://mondeca.com/intelligent-taxonomy-manager/](https://mondeca.com/intelligent-taxonomy-manager/))
 	- MultiTes ([https://multites.net](https://multites.net))
