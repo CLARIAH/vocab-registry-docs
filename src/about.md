@@ -30,7 +30,7 @@ The vocabulary registry aligns to other international initiatives that aim to in
 - Ideation and development: Kerim Meijer (senior software engineer at the KNAW Humanities Cluster)
 - Associate developer: Meindert Kroese (KNAW Humanities Cluster)
 - Associate developer trainee, curator, and user researcher: Liliana Melgar (KNAW Humanities Cluster)
-- This project is part of the CLARIAH infrastructure, it's funded by CLARIAH Plus and SHHOC.nl and gets collaboration from DANS (t.b.d.) and ODISSEI
+- This project is part of the CLARIAH infrastructure, it's funded by CLARIAH Plus and SHHOC.nl.
 ## Publications
 [https://registry.vocabs.clariah.nl/publications/](https://registry.vocabs.clariah.nl/publications/)
 ## Contact
