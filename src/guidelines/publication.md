@@ -9,4 +9,4 @@ permalink: /guidelines/publication/
 
 # How to publish vocabularies
 
-(Forthcoming)
+(Forthcoming) Test
