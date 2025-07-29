@@ -10,7 +10,7 @@ Welcome to the FAIR Vocabulary Registry for the Humanities and Social Science (S
 
 The SSH FAIR Vocabulary Registry is a one-stop reference service for vocabularies that are relevant to researchers, developers, data managers or curators in the humanities and social sciences communities. It aims to support them in finding, (re)using, publishing and adding vocabularies to the registry.
 
-The vocabulary registry aligns to other international initiatives that aim to increase the FAIR-ness ("Findability", "Accessibility", "Reproducibility" and "Interoperability") of research data and cultural heritage metadata, in this case with a focus on vocabularies (see "[Concepts](https://registry.vocabs.clariah.nl/guidelines/concepts/)" for some definitions of these terms).
+The vocabulary registry aligns to other international initiatives that aim to increase the FAIR-ness ("Findability", "Accessibility", "Interoperability" and "Reusability") of research objects and cultural heritage (meta)data, in this case with a focus on vocabularies (see "[Concepts](https://registry.vocabs.clariah.nl/guidelines/concepts/)" for some definitions of these terms).
 ## Development
 
 - The SSH FAIR Vocabulary Registry's code and documentation is developed via Github in these repositories:
