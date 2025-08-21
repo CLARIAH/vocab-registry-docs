@@ -8,5 +8,4 @@ permalink: /guidelines/publication/
 </nav>
 
 # How to publish vocabularies
-
-(Forthcoming) Test
+ 
