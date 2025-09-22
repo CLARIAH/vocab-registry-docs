@@ -14,7 +14,9 @@ You are here in one of the repositories that form part of [the architecture](htt
 
 # Working with the code as contributor
 This repository can be used by any collaborator who wants to be part of the construction of the SSH vocabulary guidelines. Currently, this editing process is moderated by the maintainers of this repository (see contact information below).
-The documentation repository is built using a static website editor called Eleventy (). If you would like to contribute to the guidelines, you have two options:
+The documentation repository is built using [Eleventy](https://www.11ty.dev/) static website generator. 
+
+If you would like to contribute to the guidelines, you have two options:
 - Option1: run this repository locally:
   - clone the repository
   - use any text editor of your preference to edit the content
