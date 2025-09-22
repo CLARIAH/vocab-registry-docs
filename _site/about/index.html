@@ -53,15 +53,20 @@
   <div class="hcContentContainer">
     <h1>About the SSH FAIR Vocabulary Registry</h1>
 <p>Welcome to the FAIR Vocabulary Registry for the Humanities and Social Science (SSH), built in the context of the &quot;Social Sciences and Humanities Open Cloud&quot; project (<a href="https://sshoc.nl/">SSHOC.nl</a>). This project develops state of the art infrastructure for social science and humanities research in collaboration between <a href="https://odissei-data.nl/">ODISSEI</a> (Open Data Infrastructure for Social Science and Economic Innovations) and <a href="https://www.clariah.nl/">CLARIAH</a> (Common Lab Research Infrastructure for the Arts and Humanities).</p>
-<p>The SSH FAIR Vocabulary Registry is a one-stop reference service for vocabularies that are relevant to researchers, developers, data managers or curators in the humanities and social sciences communities. It aims to support them in finding, (re)using, publishing and adding vocabularies to the registry.</p>
+<p>The SSH FAIR Vocabulary Registry is a one-stop reference service for vocabularies that are relevant to researchers, developers, data managers or curators in the humanities and social sciences research communities. It aims to support them in finding, (re)using, publishing and adding vocabularies to the registry.</p>
 <p>The vocabulary registry aligns to other international initiatives that aim to increase the FAIR-ness (&quot;Findability&quot;, &quot;Accessibility&quot;, &quot;Reproducibility&quot; and &quot;Interoperability&quot;) of research data and cultural heritage metadata, in this case with a focus on vocabularies (see &quot;<a href="https://registry.vocabs.clariah.nl/guidelines/concepts/">Concepts</a>&quot; for some definitions of these terms).</p>
 <h2>Development</h2>
+<p>The basic architecture of the SSH FAIR Vocabulary Registry is represented in this diagram:</p>
+<p><img src="/static/ssh-vocab-registry-architecture.png" 
+     alt="Diagram" 
+     style="display: block; margin: 0 auto; max-width: 90%; height: auto;" />
+(<a href="https://www.clarin.eu/sites/default/files/CLARIN2024_ConferenceProceedings_final.pdf#page=167">source</a>)</p>
 <ul>
 <li>The SSH FAIR Vocabulary Registry's code and documentation is developed via Github in these repositories:
 <ul>
 <li>Vocabulary workers: <a href="https://github.com/CLARIAH/vocab-workers">https://github.com/CLARIAH/vocab-workers</a></li>
-<li>Front-end: <a href="https://github.com/CLARIAH/vocab-registry">https://github.com/CLARIAH/vocab-registry</a></li>
-<li>Editor: <a href="https://github.com/CLARIAH/vocab-registry-editor">https://github.com/CLARIAH/vocab-registry-editor</a></li>
+<li>Core (API Backend, Search Engine &amp; Front-End): <a href="https://github.com/CLARIAH/vocab-registry">https://github.com/CLARIAH/vocab-registry</a></li>
+<li>Metadata editor: <a href="https://github.com/CLARIAH/vocab-registry-editor">https://github.com/CLARIAH/vocab-registry-editor</a></li>
 <li><a href="https://github.com/CLARIAH/vocab-registry-docs">https://github.com/CLARIAH/vocab-registry-docs</a></li>
 <li>Documentation: <a href="https://github.com/CLARIAH/vocab-registry-docs">https://github.com/CLARIAH/vocab-registry-docs</a></li>
 <li>Vocabulary recommender (<a href="https://recommender.vocabs.dev.clariah.nl/">development version</a>), temporarily in development in private Gitlab.</li>
@@ -79,8 +84,8 @@
 <li>Ideation and development: Kerim Meijer (senior software engineer at the KNAW Humanities Cluster)</li>
 <li>Associate developer: Meindert Kroese (KNAW Humanities Cluster); Vyacheslav Tykhonov (DANS)</li>
 <li>Associate developer trainee, curator, and user researcher: Liliana Melgar (KNAW Humanities Cluster)</li>
-<li>This project is part of the CLARIAH infrastructure, it's funded by CLARIAH Plus and SHHOC.nl.</li>
-<li>Collaborators: Angelica Maineri (ODISSEI)</li>
+<li>This project is part of the CLARIAH infrastructure, it's funded by CLARIAH Plus and SHHOC-NL.</li>
+<li>Collaborators: Angelica Maineri (ODISSEI) and Ricarda Braukmann (DANS)</li>
 </ul>
 <h2>Publications</h2>
 <p><a href="https://registry.vocabs.clariah.nl/publications/">https://registry.vocabs.clariah.nl/publications/</a></p>
